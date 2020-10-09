@@ -1,1 +1,2 @@
 Image.asset('assets/images/lake.jpg'),
+RoundedRectangleBorder(borderRadius: BorderRadius.circular(20))
